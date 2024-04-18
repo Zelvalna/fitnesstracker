@@ -134,7 +134,7 @@ func swimmingMeanSpeed(lengthPool, countPool int, duration float64) float64 {
 //
 // Параметры:
 //
-// lengthPool int — длина бассейна в метрах.
+// lengthPool int — длина бассейна в метрах..
 // countPool int — сколько раз пользователь переплыл бассейн.
 // duration float64 — длительность тренировки в часах.
 // weight float64 — вес пользователя.
