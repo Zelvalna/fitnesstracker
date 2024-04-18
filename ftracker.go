@@ -145,4 +145,3 @@ func SwimmingSpentCalories(lengthPool, countPool int, duration, weight float64) 
 
 	//(СредняяСкоростьВКм/ч + 1.1) * 2 * ВесСпортсменаВКг * ВремяТренеровкиВЧасах
 }
-
